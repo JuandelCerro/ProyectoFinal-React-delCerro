@@ -10,7 +10,7 @@ const Form = ({busqueda}) => { {/*Recibo parametro "busqueda" */}
           placeholder={busqueda}
         />
         <button className="btn btn-secondary my-2 my-sm-0" type="submit">
-          Search
+          Buscar
         </button>
       </form>
     </>

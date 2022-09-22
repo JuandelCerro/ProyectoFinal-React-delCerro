@@ -1,0 +1,58 @@
+.barraNavegacion{
+    background-image: url("../components/fondoNav.JPG");
+    height: 90%;
+    font-size: x-large;
+}
+
+.card{
+    width: 280px;
+    text-align: center;
+}
+
+.dropdown {
+    display: flex;
+    align-items: center;
+}
+
+a{
+    color: rgba(0, 0, 0, 0.800) !important;
+}
+
+.divCards{
+    display: flex;
+    justify-content: space-around;
+    margin: 100px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.btnContador{
+    width: 50px;
+    border-radius: 50%;
+}
+
+.logoCarrito{
+    width: 70px;
+    padding-right: 30px;
+    transition-duration: 0.3s;
+}
+
+.logoCarrito:hover {
+    transform: scale(1.1);
+  }
+
+form {
+    padding-right: 50px;
+}
+
+.btnCarrito{
+    background-color: rgba(255, 255, 255, 0);
+    border: none;
+}
+
