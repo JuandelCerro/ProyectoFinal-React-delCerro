@@ -4,7 +4,7 @@
     "nombre": "Chesse & Bacon Burger",
     "precio": 1050,
     "descripcion": "Cheddar/Bacon/Cebolla caramelizada/BBQ",
-    "categoriaId": "clasica",
+    "idCategoria": 1,
     "stock": 10,
     "img": "chesse-and-bacon.jpg"
 },
@@ -13,7 +13,7 @@
     "nombre": "Chesse Burger",
     "precio": 950,
     "descripcion": "Cheddar/Mayonesa",
-    "categoriaId": "clasica",
+    "idCategoria": 1,
     "stock": 10,
     "img": "chesse.jpg"
 },
@@ -22,7 +22,7 @@
     "nombre": "Egg & Bacon Burger",
     "precio": 1100,
     "descripcion": "Cheddar/Bacon/Huevo/BBQ",
-    "categoriaId": "clasica",
+    "idCategoria": 1,
     "stock": 10,
     "img": "egg-and-bacon.jpg"
 },
@@ -31,7 +31,7 @@
     "nombre": "Tomato Burger",
     "precio": 1050,
     "descripcion": "Cheddar/Tomate/Lechuga/Mayonesa",
-    "categoriaId": "clasica",
+    "idCategoria": 1,
     "stock": 10,
     "img": "tomato.jpg"
 },
@@ -40,7 +40,7 @@
     "nombre": "Triple Cheese Burger",
     "precio": 1150,
     "descripcion": "Triple carne/Extra cheddar/Mayonesa",
-    "categoriaId": "clasica",
+    "idCategoria": 1,
     "stock": 10,
     "img": "triple-chesse.jpg"
 },
@@ -49,7 +49,7 @@
     "nombre": "Ale Burger",
     "precio": 1150,
     "descripcion": "Cheddar/Bacon/Pepinos/Jalapeños/Cabolla/Hostaza/Ketchup",
-    "categoriaId": "especial",
+    "idCategoria": 2,
     "stock": 10,
     "img": "ale.jpg"
 },
@@ -58,7 +58,7 @@
     "nombre": "César Burger",
     "precio": 1100,
     "descripcion": "Cheddar/Queso ementhal /Queso azul/Cebolla caramelizada/Thousand island",
-    "categoriaId": "especial",
+    "idCategoria": 2,
     "stock": 10,
     "img": "cesar.jpg"
 },
@@ -67,7 +67,7 @@
     "nombre": "Doble Cuarto Burger",
     "precio": 1050,
     "descripcion": "Cheddar/Cebolla/Mostaza/Ketchup",
-    "categoriaId": "especial",
+    "idCategoria": 2,
     "stock": 10,
     "img": "doble-cuarto.jpg"
 },
@@ -76,7 +76,7 @@
     "nombre": "Frejjca Burger",
     "precio": 1150,
     "descripcion": "Doble carne / Doble ementhal /Doble cheddar / Cebolla / Tomate / Lechuga / Panceta / Mayo / Ketchup / Mostaza",
-    "categoriaId": "especial",
+    "idCategoria": 2,
     "stock": 10,
     "img": "frejjca.jpg"
 },
@@ -85,7 +85,7 @@
     "nombre": "Fried Onion Burger",
     "precio": 1050,
     "descripcion": "Cheddar/Cebolla a la plancha/Mayonesa",
-    "categoriaId": "especial",
+    "idCategoria": 2,
     "stock": 10,
     "img": "fried-onion.jpg"
 },
@@ -94,7 +94,7 @@
     "nombre": "Gran Cope Burger",
     "precio": 1100,
     "descripcion": "Cheddar/Cebolla/Lechuga/Pepinos/Thousand island",
-    "categoriaId": "especial",
+    "idCategoria": 2,
     "stock": 10,
     "img": "gran-cope.jpg"
 },
@@ -103,7 +103,7 @@
     "nombre": "Guacamole Burger",
     "precio": 1150,
     "descripcion": "Cheddar/Guacamole/Nachos/Cebolla/Tomate/Mayonesa",
-    "categoriaId": "especial",
+    "idCategoria": 2,
     "stock": 10,
     "img": "guacamole.jpg"
 },
@@ -112,7 +112,7 @@
     "nombre": "Pulled Pork Burger",
     "precio": 1150,
     "descripcion": "Cheddar/Bacon/Pulled pork/BBQ.",
-    "categoriaId": "especial",
+    "idCategoria": 2,
     "stock": 10,
     "img": "pulled-pork.jpg"
 },
@@ -121,7 +121,7 @@
     "nombre": "Tetra Chesse Burger",
     "precio": 1250,
     "descripcion": "Cuadruple carne / Extra cheddar / Mayonesa.",
-    "categoriaId": "especial",
+    "idCategoria": 2,
     "stock": 10,
     "img": "tetra-chesse-burger.jpg"
 },
@@ -130,7 +130,7 @@
     "nombre": "Veggie Burger",
     "precio": 950,
     "descripcion": "Falafel/Cheddar/Lechuga/Tomate/Mayonesa",
-    "categoriaId": "veggie",
+    "idCategoria": 3,
     "stock": 10,
     "img": "veggie.jpg"
 },
@@ -139,25 +139,25 @@
     "nombre": "Aros de cebolla",
     "precio": 700,
     "descripcion": "Aros de cebolla",
-    "categoriaId": "otros",
+    "idCategoria": 4,
     "stock": 10,
     "img": "aros-cebolla.jpg"
 },
 {
     "id": 17,
-    "nombre": "Nachos con guacamole",
+    "nombre": "Nachos",
     "precio": 650,
     "descripcion": "Nachos con guacamole",
-    "categoriaId": "otros",
+    "idCategoria": 4,
     "stock": 10,
     "img": "nachos.jpg"
 },
 {
     "id": 18,
-    "nombre": "Nuggets con BBQ + Papas",
+    "nombre": "Nuggets con BBQ",
     "precio": 970,
     "descripcion": "Nuggets con BBQ + Papas",
-    "categoriaId": "otros",
+    "idCategoria": 4,
     "stock": 10,
     "img": "nuggets.jpg"
 }

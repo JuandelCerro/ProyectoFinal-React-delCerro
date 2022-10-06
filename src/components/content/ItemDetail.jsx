@@ -25,14 +25,15 @@ const ItemDetail = () => {
                     <div className="">
                         <img src={`../img/${producto.img}`} className="countImg" alt="" />
                     </div>
-                    <div className="divCard">
-                        <div className="card-body">
-                            <h5 className="card-title">{producto.nombre}</h5>
+                    <div className="divCard itemDetailInfoContainer">
+                        <div className="card-body itemDetailInfo">
+                            <h4 className="card-title">{producto.nombre}</h4>
                             <p className="card-text">{producto.descripcion}</p>
-                            <p className="card-text">${producto.precio}</p>
+                            <h5 className="card-precio">$ {producto.precio}</h5>
                             <Contador/>
-                            <ItemCount producto={producto}/>
                             <button className='btn btn-lg btn-primary'>COMPRAR</button>
+                            <ItemCount producto={producto}/>
+
                         </div>
                     </div>
 

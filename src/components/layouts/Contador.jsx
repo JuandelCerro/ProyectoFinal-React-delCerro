@@ -16,9 +16,11 @@ const Contador = () => {
 
     return (
         <>
+        <div className='contador'>
         <button onClick={() => modificarContador('+')} className='btn btnContador btn-lg btn-primary'>+</button>
           <h4>{contador}</h4>
         <button onClick={() => modificarContador('-')} className='btn btnContador btn-lg btn-light'>-</button>
+        </div>
         </>
     );
 

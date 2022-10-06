@@ -4,6 +4,24 @@
     font-size: x-large;
 }
 
+html {
+    min-height: 100%;
+    position: relative;
+}
+
+body {
+    margin: 0;
+    margin-bottom: 40px;
+}
+
+.footer {
+    background-image: url("../components/fondoNav.JPG");
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+}
+
 .card{
     font-size: large;
     width: 280px;
@@ -47,6 +65,7 @@ a:hover {
 .btnContador{
     width: 50px;
     border-radius: 50%;
+    border: 0.2px solid black;
 }
 
 form {
@@ -68,12 +87,6 @@ form {
     border: none;
 }
 
-.footer {
-    background-image: url("../components/fondoNav.JPG");
-    height: 100px;
-    font-size: x-large;
-}
-
 .itemDetail {
     display: flex;
     justify-content: center;
@@ -83,8 +96,61 @@ form {
     display: flex;
     align-items: center;
     flex-direction: row;
+    margin-top: 100px;
 }
 
 .countImg {
     border-radius: 25px;
+}
+
+.categoria, .row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.itemDetailInfo {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.itemDetailInfoContainer {
+    padding-left: 40px;
+}
+
+.contador {
+    display: flex;
+    align-items: center;
+    min-width: 145px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+h4 {
+    padding-left: 15px;
+    padding-right: 15px;
+    min-width: 45px;
+}
+
+.card-body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.card-title {
+    font-size: x-large;
+    min-width: 280px;
+    padding-bottom: 15px;
+}
+
+.card-text {
+    max-width: 500px;
+}
+
+.card-precio {
+    font-size: x-large;
 }
