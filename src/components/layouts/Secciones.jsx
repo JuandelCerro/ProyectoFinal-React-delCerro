@@ -1,3 +1,4 @@
+import {Link} from "react-router-dom";
 import React from "react";
 
 const Secciones = () => {
@@ -6,11 +7,10 @@ const Secciones = () => {
       <div className="collapse navbar-collapse" id="navbarColor01">
         <ul className="navbar-nav me-auto">
           <li className="nav-item">
-            <a className="nav-link active" href="">Home
-            </a>
+            <Link className="nav-link " to="/About">About Us</Link>           
           </li>
           <li className="nav-item">
-            <a className="nav-link" href="">Conocenos</a>
+            <Link className="nav-link " to="/Contacto">Contacto</Link>           
           </li>
         </ul>
       </div>

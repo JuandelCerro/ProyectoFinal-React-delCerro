@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Dropdown = ({lista}) => {
     return (
@@ -6,10 +7,10 @@ const Dropdown = ({lista}) => {
           <li className="nav-item dropdown">
             <a className="listDropdown nav-link dropdown-toggle" data-bs-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">¿Qué comemos hoy?</a>
             <div className="dropdown-menu">
-              <a className="dropdown-item" href="">{lista[0]}</a>
-              <a className="dropdown-item" href="">{lista[1]}</a>
-              <a className="dropdown-item" href="">{lista[2]}</a>
-              <a className="dropdown-item" href="">{lista[3]}</a>
+              <Link className="dropdown-item" to={""}>{lista[0]}</Link>
+              <Link className="dropdown-item" to={""}>{lista[1]}</Link>
+              <Link className="dropdown-item" to={""}>{lista[2]}</Link>
+              <Link className="dropdown-item" to={""}>{lista[3]}</Link>
             </div>
           </li>  
         </>

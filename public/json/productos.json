@@ -1,0 +1,164 @@
+[
+{
+    "id": 1,
+    "nombre": "Chesse & Bacon Burger",
+    "precio": 1050,
+    "descripcion": "Cheddar/Bacon/Cebolla caramelizada/BBQ",
+    "categoriaId": "clasica",
+    "stock": 10,
+    "img": "chesse-and-bacon.jpg"
+},
+{
+    "id": 2,
+    "nombre": "Chesse Burger",
+    "precio": 950,
+    "descripcion": "Cheddar/Mayonesa",
+    "categoriaId": "clasica",
+    "stock": 10,
+    "img": "chesse.jpg"
+},
+{
+    "id": 3,
+    "nombre": "Egg & Bacon Burger",
+    "precio": 1100,
+    "descripcion": "Cheddar/Bacon/Huevo/BBQ",
+    "categoriaId": "clasica",
+    "stock": 10,
+    "img": "egg-and-bacon.jpg"
+},
+{
+    "id": 4,
+    "nombre": "Tomato Burger",
+    "precio": 1050,
+    "descripcion": "Cheddar/Tomate/Lechuga/Mayonesa",
+    "categoriaId": "clasica",
+    "stock": 10,
+    "img": "tomato.jpg"
+},
+{
+    "id": 5,
+    "nombre": "Triple Cheese Burger",
+    "precio": 1150,
+    "descripcion": "Triple carne/Extra cheddar/Mayonesa",
+    "categoriaId": "clasica",
+    "stock": 10,
+    "img": "triple-chesse.jpg"
+},
+{
+    "id": 6,
+    "nombre": "Ale Burger",
+    "precio": 1150,
+    "descripcion": "Cheddar/Bacon/Pepinos/Jalapeños/Cabolla/Hostaza/Ketchup",
+    "categoriaId": "especial",
+    "stock": 10,
+    "img": "ale.jpg"
+},
+{
+    "id": 7,
+    "nombre": "César Burger",
+    "precio": 1100,
+    "descripcion": "Cheddar/Queso ementhal /Queso azul/Cebolla caramelizada/Thousand island",
+    "categoriaId": "especial",
+    "stock": 10,
+    "img": "cesar.jpg"
+},
+{
+    "id": 8,
+    "nombre": "Doble Cuarto Burger",
+    "precio": 1050,
+    "descripcion": "Cheddar/Cebolla/Mostaza/Ketchup",
+    "categoriaId": "especial",
+    "stock": 10,
+    "img": "doble-cuarto.jpg"
+},
+{
+    "id": 9,
+    "nombre": "Frejjca Burger",
+    "precio": 1150,
+    "descripcion": "Doble carne / Doble ementhal /Doble cheddar / Cebolla / Tomate / Lechuga / Panceta / Mayo / Ketchup / Mostaza",
+    "categoriaId": "especial",
+    "stock": 10,
+    "img": "frejjca.jpg"
+},
+{
+    "id": 10,
+    "nombre": "Fried Onion Burger",
+    "precio": 1050,
+    "descripcion": "Cheddar/Cebolla a la plancha/Mayonesa",
+    "categoriaId": "especial",
+    "stock": 10,
+    "img": "fried-onion.jpg"
+},
+{
+    "id": 11,
+    "nombre": "Gran Cope Burger",
+    "precio": 1100,
+    "descripcion": "Cheddar/Cebolla/Lechuga/Pepinos/Thousand island",
+    "categoriaId": "especial",
+    "stock": 10,
+    "img": "gran-cope.jpg"
+},
+{
+    "id": 12,
+    "nombre": "Guacamole Burger",
+    "precio": 1150,
+    "descripcion": "Cheddar/Guacamole/Nachos/Cebolla/Tomate/Mayonesa",
+    "categoriaId": "especial",
+    "stock": 10,
+    "img": "guacamole.jpg"
+},
+{
+    "id": 13,
+    "nombre": "Pulled Pork Burger",
+    "precio": 1150,
+    "descripcion": "Cheddar/Bacon/Pulled pork/BBQ.",
+    "categoriaId": "especial",
+    "stock": 10,
+    "img": "pulled-pork.jpg"
+},
+{
+    "id": 14,
+    "nombre": "Tetra Chesse Burger",
+    "precio": 1250,
+    "descripcion": "Cuadruple carne / Extra cheddar / Mayonesa.",
+    "categoriaId": "especial",
+    "stock": 10,
+    "img": "tetra-chesse-burger.jpg"
+},
+{
+    "id": 15,
+    "nombre": "Veggie Burger",
+    "precio": 950,
+    "descripcion": "Falafel/Cheddar/Lechuga/Tomate/Mayonesa",
+    "categoriaId": "veggie",
+    "stock": 10,
+    "img": "veggie.jpg"
+},
+{
+    "id": 16,
+    "nombre": "Aros de cebolla",
+    "precio": 700,
+    "descripcion": "Aros de cebolla",
+    "categoriaId": "otros",
+    "stock": 10,
+    "img": "aros-cebolla.jpg"
+},
+{
+    "id": 17,
+    "nombre": "Nachos con guacamole",
+    "precio": 650,
+    "descripcion": "Nachos con guacamole",
+    "categoriaId": "otros",
+    "stock": 10,
+    "img": "nachos.jpg"
+},
+{
+    "id": 18,
+    "nombre": "Nuggets con BBQ + Papas",
+    "precio": 970,
+    "descripcion": "Nuggets con BBQ + Papas",
+    "categoriaId": "otros",
+    "stock": 10,
+    "img": "nuggets.jpg"
+}
+]
