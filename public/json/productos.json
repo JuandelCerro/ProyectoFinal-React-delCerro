@@ -5,6 +5,7 @@
     "precio": 1050,
     "descripcion": "Cheddar/Bacon/Cebolla caramelizada/BBQ",
     "idCategoria": 1,
+    "Categoria": "clasicas",
     "stock": 10,
     "img": "chesse-and-bacon.jpg"
 },
@@ -14,6 +15,7 @@
     "precio": 950,
     "descripcion": "Cheddar/Mayonesa",
     "idCategoria": 1,
+    "Categoria": "clasicas",
     "stock": 10,
     "img": "chesse.jpg"
 },
@@ -23,6 +25,7 @@
     "precio": 1100,
     "descripcion": "Cheddar/Bacon/Huevo/BBQ",
     "idCategoria": 1,
+    "Categoria": "clasicas",
     "stock": 10,
     "img": "egg-and-bacon.jpg"
 },
@@ -32,6 +35,7 @@
     "precio": 1050,
     "descripcion": "Cheddar/Tomate/Lechuga/Mayonesa",
     "idCategoria": 1,
+    "Categoria": "clasicas",
     "stock": 10,
     "img": "tomato.jpg"
 },
@@ -41,6 +45,7 @@
     "precio": 1150,
     "descripcion": "Triple carne/Extra cheddar/Mayonesa",
     "idCategoria": 1,
+    "Categoria": "clasicas",
     "stock": 10,
     "img": "triple-chesse.jpg"
 },
@@ -50,6 +55,7 @@
     "precio": 1150,
     "descripcion": "Cheddar/Bacon/Pepinos/Jalapeños/Cabolla/Hostaza/Ketchup",
     "idCategoria": 2,
+    "Categoria": "especiales",
     "stock": 10,
     "img": "ale.jpg"
 },
@@ -59,6 +65,7 @@
     "precio": 1100,
     "descripcion": "Cheddar/Queso ementhal /Queso azul/Cebolla caramelizada/Thousand island",
     "idCategoria": 2,
+    "Categoria": "especiales",
     "stock": 10,
     "img": "cesar.jpg"
 },
@@ -68,6 +75,7 @@
     "precio": 1050,
     "descripcion": "Cheddar/Cebolla/Mostaza/Ketchup",
     "idCategoria": 2,
+    "Categoria": "especiales",
     "stock": 10,
     "img": "doble-cuarto.jpg"
 },
@@ -77,6 +85,7 @@
     "precio": 1150,
     "descripcion": "Doble carne / Doble ementhal /Doble cheddar / Cebolla / Tomate / Lechuga / Panceta / Mayo / Ketchup / Mostaza",
     "idCategoria": 2,
+    "Categoria": "especiales",
     "stock": 10,
     "img": "frejjca.jpg"
 },
@@ -86,6 +95,7 @@
     "precio": 1050,
     "descripcion": "Cheddar/Cebolla a la plancha/Mayonesa",
     "idCategoria": 2,
+    "Categoria": "especiales",
     "stock": 10,
     "img": "fried-onion.jpg"
 },
@@ -95,6 +105,7 @@
     "precio": 1100,
     "descripcion": "Cheddar/Cebolla/Lechuga/Pepinos/Thousand island",
     "idCategoria": 2,
+    "Categoria": "especiales",
     "stock": 10,
     "img": "gran-cope.jpg"
 },
@@ -104,6 +115,7 @@
     "precio": 1150,
     "descripcion": "Cheddar/Guacamole/Nachos/Cebolla/Tomate/Mayonesa",
     "idCategoria": 2,
+    "Categoria": "especiales",
     "stock": 10,
     "img": "guacamole.jpg"
 },
@@ -113,6 +125,7 @@
     "precio": 1150,
     "descripcion": "Cheddar/Bacon/Pulled pork/BBQ.",
     "idCategoria": 2,
+    "Categoria": "especiales",
     "stock": 10,
     "img": "pulled-pork.jpg"
 },
@@ -122,6 +135,7 @@
     "precio": 1250,
     "descripcion": "Cuadruple carne / Extra cheddar / Mayonesa.",
     "idCategoria": 2,
+    "Categoria": "especiales",
     "stock": 10,
     "img": "tetra-chesse-burger.jpg"
 },
@@ -131,6 +145,7 @@
     "precio": 950,
     "descripcion": "Falafel/Cheddar/Lechuga/Tomate/Mayonesa",
     "idCategoria": 3,
+    "Categoria": "veggie",
     "stock": 10,
     "img": "veggie.jpg"
 },
@@ -140,6 +155,7 @@
     "precio": 700,
     "descripcion": "Aros de cebolla",
     "idCategoria": 4,
+    "Categoria": "otros",
     "stock": 10,
     "img": "aros-cebolla.jpg"
 },
@@ -149,6 +165,7 @@
     "precio": 650,
     "descripcion": "Nachos con guacamole",
     "idCategoria": 4,
+    "Categoria": "otros",
     "stock": 10,
     "img": "nachos.jpg"
 },
@@ -158,6 +175,7 @@
     "precio": 970,
     "descripcion": "Nuggets con BBQ + Papas",
     "idCategoria": 4,
+    "Categoria": "otros",
     "stock": 10,
     "img": "nuggets.jpg"
 }
