@@ -1,4 +1,4 @@
-import React from 'react';
+import {memo} from 'react';
 import { Link } from 'react-router-dom';
 
 const Dropdown = ({lista}) => {
@@ -17,4 +17,4 @@ const Dropdown = ({lista}) => {
     );
 }
 
-export default Dropdown;
+export default memo (Dropdown);

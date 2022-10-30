@@ -1,15 +1,17 @@
 import React, {useState} from 'react';
 
-const Contador = () => {
+const Contador = ({producto}) => {
     
-    const [contador, setContador] = useState(0);
+    const [cantidad, setCantidad] = useState(1);
 
-    function modificarContador(operacion) {
+    function modificarCantidad(operacion) {
       if (operacion == "+") {
-        setContador(contador + 1);
-      } else if (contador > 1) {
+        if (cantidad < producto.stock) {
+          setCantidad(cantidad + 1);
+        }
+      } else if (cantidad > 1) {
         {
-          setContador(contador - 1);
+          setCantidad(cantidad - 1);
         }
       }
     }
@@ -17,9 +19,9 @@ const Contador = () => {
     return (
         <>
         <div className='contador'>
-        <button onClick={() => modificarContador('+')} className='btn btnContador btn-lg btn-primary'>+</button>
-          <h4>{contador}</h4>
-        <button onClick={() => modificarContador('-')} className='btn btnContador btn-lg btn-light'>-</button>
+        <button onClick={() => modificarCantidad('+')} className='btn btnContador btn-lg btn-primary'>+</button>
+          <h4>{cantidad}</h4>
+        <button onClick={() => modificarCantidad('-')} className='btn btnContador btn-lg btn-light'>-</button>
         </div>
         </>
     );

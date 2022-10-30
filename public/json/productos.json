@@ -6,8 +6,8 @@
     "descripcion": "Cheddar/Bacon/Cebolla caramelizada/BBQ",
     "idCategoria": 1,
     "Categoria": "clasicas",
-    "stock": 10,
-    "img": "chesse-and-bacon.jpg"
+    "stock": 3,
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-34755-2022-3809c.appspot.com/o/Imagenes%2Fchesse-and-bacon.jpg?alt=media&token=f1db11e9-ea26-466f-bfe6-7a64eb09e97b"
 },
 {
     "id": 2,
@@ -17,7 +17,7 @@
     "idCategoria": 1,
     "Categoria": "clasicas",
     "stock": 10,
-    "img": "chesse.jpg"
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-34755-2022-3809c.appspot.com/o/Imagenes%2Fchesse.jpg?alt=media&token=d3b68bdd-32a7-4f3b-ad82-723143cfac66"
 },
 {
     "id": 3,
@@ -27,7 +27,7 @@
     "idCategoria": 1,
     "Categoria": "clasicas",
     "stock": 10,
-    "img": "egg-and-bacon.jpg"
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-34755-2022-3809c.appspot.com/o/Imagenes%2Fegg-and-bacon.jpg?alt=media&token=5e3354bf-8564-4fa5-869a-eca1287b41d8"
 },
 {
     "id": 4,
@@ -37,7 +37,7 @@
     "idCategoria": 1,
     "Categoria": "clasicas",
     "stock": 10,
-    "img": "tomato.jpg"
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-34755-2022-3809c.appspot.com/o/Imagenes%2Ftomato.jpg?alt=media&token=aaf608e9-464a-420e-869c-7baae0401991"
 },
 {
     "id": 5,
@@ -47,7 +47,7 @@
     "idCategoria": 1,
     "Categoria": "clasicas",
     "stock": 10,
-    "img": "triple-chesse.jpg"
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-34755-2022-3809c.appspot.com/o/Imagenes%2Ftriple-chesse.jpg?alt=media&token=bf3b934b-5ba5-4b87-a18d-0c28dbd1c473"
 },
 {
     "id": 6,
@@ -57,7 +57,7 @@
     "idCategoria": 2,
     "Categoria": "especiales",
     "stock": 10,
-    "img": "ale.jpg"
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-34755-2022-3809c.appspot.com/o/Imagenes%2Fale.jpg?alt=media&token=e40af074-e8cd-4da5-bc45-f1d94159fa6a"
 },
 {
     "id": 7,
@@ -67,7 +67,7 @@
     "idCategoria": 2,
     "Categoria": "especiales",
     "stock": 10,
-    "img": "cesar.jpg"
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-34755-2022-3809c.appspot.com/o/Imagenes%2Fcesar.jpg?alt=media&token=eb77b483-d274-4151-815f-9e93c4311cb7"
 },
 {
     "id": 8,
@@ -77,7 +77,7 @@
     "idCategoria": 2,
     "Categoria": "especiales",
     "stock": 10,
-    "img": "doble-cuarto.jpg"
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-34755-2022-3809c.appspot.com/o/Imagenes%2Fdoble-cuarto.jpg?alt=media&token=d1899ea4-c236-4aef-9096-8a335da79c71"
 },
 {
     "id": 9,
@@ -87,7 +87,7 @@
     "idCategoria": 2,
     "Categoria": "especiales",
     "stock": 10,
-    "img": "frejjca.jpg"
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-34755-2022-3809c.appspot.com/o/Imagenes%2Ffrejjca.jpg?alt=media&token=d90440e3-8c97-470d-9a7b-3e3c35a5eef8"
 },
 {
     "id": 10,
@@ -97,7 +97,7 @@
     "idCategoria": 2,
     "Categoria": "especiales",
     "stock": 10,
-    "img": "fried-onion.jpg"
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-34755-2022-3809c.appspot.com/o/Imagenes%2Ffried-onion.jpg?alt=media&token=c8319fb6-9099-4d92-a40d-0f8f6c7994d1"
 },
 {
     "id": 11,
@@ -107,7 +107,7 @@
     "idCategoria": 2,
     "Categoria": "especiales",
     "stock": 10,
-    "img": "gran-cope.jpg"
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-34755-2022-3809c.appspot.com/o/Imagenes%2Fgran-cope.jpg?alt=media&token=f133105d-cfed-4527-93dc-ba779c9ba337"
 },
 {
     "id": 12,
@@ -117,7 +117,7 @@
     "idCategoria": 2,
     "Categoria": "especiales",
     "stock": 10,
-    "img": "guacamole.jpg"
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-34755-2022-3809c.appspot.com/o/Imagenes%2Fguacamole.jpg?alt=media&token=c3e17fd0-003f-464b-8e53-c98eb1451276"
 },
 {
     "id": 13,
@@ -127,7 +127,7 @@
     "idCategoria": 2,
     "Categoria": "especiales",
     "stock": 10,
-    "img": "pulled-pork.jpg"
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-34755-2022-3809c.appspot.com/o/Imagenes%2Fpulled-pork.jpg?alt=media&token=60bdb73c-3bcf-4626-9b54-f37689d704c0"
 },
 {
     "id": 14,
@@ -137,7 +137,7 @@
     "idCategoria": 2,
     "Categoria": "especiales",
     "stock": 10,
-    "img": "tetra-chesse-burger.jpg"
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-34755-2022-3809c.appspot.com/o/Imagenes%2Ftetra-chesse-burger.jpg?alt=media&token=e482841e-b9e8-435d-a16b-34c46ddac045"
 },
 {
     "id": 15,
@@ -147,7 +147,7 @@
     "idCategoria": 3,
     "Categoria": "veggie",
     "stock": 10,
-    "img": "veggie.jpg"
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-34755-2022-3809c.appspot.com/o/Imagenes%2Fveggie.jpg?alt=media&token=330dcd2a-8c8f-4745-a9a9-6efb595f9ca5"
 },
 {
     "id": 16,
@@ -157,7 +157,7 @@
     "idCategoria": 4,
     "Categoria": "otros",
     "stock": 10,
-    "img": "aros-cebolla.jpg"
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-34755-2022-3809c.appspot.com/o/Imagenes%2Faros-cebolla.jpg?alt=media&token=e1483628-d3d5-4e35-aaae-a14bd468b811"
 },
 {
     "id": 17,
@@ -167,7 +167,7 @@
     "idCategoria": 4,
     "Categoria": "otros",
     "stock": 10,
-    "img": "nachos.jpg"
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-34755-2022-3809c.appspot.com/o/Imagenes%2Fnachos.jpg?alt=media&token=3632cd90-4eca-422a-be68-0dcc77d888b3"
 },
 {
     "id": 18,
@@ -177,6 +177,6 @@
     "idCategoria": 4,
     "Categoria": "otros",
     "stock": 10,
-    "img": "nuggets.jpg"
+    "img": "https://firebasestorage.googleapis.com/v0/b/react-34755-2022-3809c.appspot.com/o/Imagenes%2Fnuggets.jpg?alt=media&token=38c1757a-0136-4d89-9654-1d64a2ad6a39"
 }
 ]

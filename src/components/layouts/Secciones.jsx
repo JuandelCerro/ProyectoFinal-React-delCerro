@@ -1,5 +1,5 @@
 import {Link} from "react-router-dom";
-import React from "react";
+import {memo} from "react";
 
 const Secciones = () => {
   return (
@@ -18,4 +18,4 @@ const Secciones = () => {
   );
 };
 
-export default Secciones;
+export default memo (Secciones);
