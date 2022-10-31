@@ -39,7 +39,7 @@ _Para llevar adelante este proyecto utilicé:_
 
 ## ¿Cómo comprar? 📄
 
-<p> <img src="" display="flex" width="500px" height="320" align="center" />
+<p> <img src="https://github.com/JuandelCerro/ProyectoFinal-React-delCerro/blob/cdd8be8ebbb6e00b82ecc8a7ad08252856e15429/Como-Comprar%20(1).gif" display="flex" width="500px" height="320" align="center" />
 
 Sigue las instrucciones de este video para comprar en la tienda:
 
