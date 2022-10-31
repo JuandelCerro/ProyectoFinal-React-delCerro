@@ -36,3 +36,11 @@ _Para llevar adelante este proyecto utilicé:_
 ## Autor ✒️
 
 * **Juan Ignacio del Cerro** - *Desarrollo completo* - [juanignaciodelcerro](https://www.linkedin.com/in/juan-ignacio-del-cerro/)
+
+## ¿Cómo comprar? 📄
+
+<p> <img src="" display="flex" width="500px" height="320" align="center" />
+
+Sigue las instrucciones de este video para comprar en la tienda:
+
+
