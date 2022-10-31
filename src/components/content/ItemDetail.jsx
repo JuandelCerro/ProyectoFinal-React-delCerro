@@ -4,9 +4,9 @@ import ItemCount from './ItemCount';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
-const ItemDetail = ({producto}) => {
+const ItemDetail = ({ producto }) => {
     const [cantidad, setCantidad] = useState(1);
-    const {agregarProducto} = useContext(CarritoContext)
+    const { agregarProducto } = useContext(CarritoContext)
     if (!producto) return
 
     const cantProducto = (operacion) => {
@@ -27,7 +27,6 @@ const ItemDetail = ({producto}) => {
         });
     }
 
-    console.log("producto", producto.nombre)
     return (
         <>
             <div className='itemDetail'>
@@ -47,9 +46,9 @@ const ItemDetail = ({producto}) => {
                                 <button onClick={() => cantProducto('-')} className='btn btnContador btn-lg btn-light'>-</button>
                             </div>
 
-                            <button className='btn btn-lg btn-primary' onClick={() => {agregarProducto(producto, cantidad); showToastMessage()}} >Agregar al carrito</button>
+                            <button className='btn btn-lg btn-primary' onClick={() => { agregarProducto(producto, cantidad); showToastMessage() }} >Agregar al carrito</button>
                             <ToastContainer />
-                            <ItemCount producto={producto}/>
+                            <ItemCount producto={producto} />
 
                         </div>
                     </div>

@@ -5,11 +5,9 @@ const Contacto = () => {
 
     const consultarForm = (e) => {
         e.preventDefault()
-
         const datForm = new FormData(datosFormulario.current)
         e.target.reset()
     }
-
 
     return (
         <>

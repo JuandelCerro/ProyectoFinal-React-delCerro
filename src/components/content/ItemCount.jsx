@@ -1,6 +1,6 @@
 import React from 'react';
 
-const ItemCount = ({producto}) => {
+const ItemCount = ({ producto }) => {
     return (
         <>
             <div>
